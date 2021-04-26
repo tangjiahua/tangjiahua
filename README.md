@@ -5,4 +5,3 @@
 - 🧠  I used to take internship as an iOS developer at Bytedance Techonology.
 - 🖋  I'm currently learning everything to prepare for my future career.
 - 🏖️  I will go to Shenzhen and work as a back-end engineer at Timi Studio.
-- 📄  You can check my [RESUME](https://gist.github.com/tangjiahua/30a0ee0027045cf75bf4ef61c0a246c6).
